@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Rai 1
+https://workers.dev
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Rai 2
+https://workers.dev
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Rai 3
+https://workers.dev
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Rete 4
+https://workers.dev
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Canale 5
+https://workers.dev
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Italia 1
+https://workers.dev
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",La 7
+https://workers.dev
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",TV8
+https://workers.dev
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",Nove
+https://workers.dev
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-logo="https://githubusercontent.com" group-title="GENERALISTI",20 Mediaset
+https://workers.dev
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://githubusercontent.com" group-title="CINEMA E FILM",Iris
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://githubusercontent.com" group-title="CINEMA E FILM",Rai Movie
+https://workers.dev
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://githubusercontent.com" group-title="CINEMA E FILM",Cine34
+https://workers.dev
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-logo="https://githubusercontent.com" group-title="CINEMA E FILM",Twentyseven
+https://workers.dev
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Rai Premium
+https://workers.dev
+#EXTINF:-1 tvg-id="La5.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",La 5
+https://workers.dev
+#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Real Time
+https://workers.dev
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",DMAX
+https://workers.dev
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Mediaset Extra
+https://workers.dev
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Giallo
+https://workers.dev
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Top Crime
+https://workers.dev
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",La 7d
+https://workers.devd
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",Food Network
+https://workers.dev
+#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://githubusercontent.com" group-title="SERIE TV E SHOW",HGTV
+https://workers.dev
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Italia" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Cine Italia
+http://pluto.tv
+#EXTINF:-1 tvg-name="Pluto TV Film Commedia" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Film Commedia
+http://pluto.tv
+#EXTINF:-1 tvg-name="Pluto TV Film Thriller" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Film Thriller
+http://pluto.tv
+#EXTINF:-1 tvg-name="Pluto TV Serie Italia" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Serie Italia
+http://pluto.tv
+#EXTINF:-1 tvg-name="Pluto TV Il Commissario Rex" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Il Commissario Rex
+http://pluto.tv
+#EXTINF:-1 tvg-name="Pluto TV Real Justice" group-title="PLUTO TV INTRATTENIMENTO",Pluto TV Real Justice
+http://pluto.tv
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Focus
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Rai Storia
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Rai Scuola
+https://workers.dev
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Motor Trend
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Rai News 24
+https://workers.dev
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",TgCom 24
+https://workers.dev
+#EXTINF:-1 tvg-id="SkyTg24.it" tvg-logo="https://githubusercontent.com" group-title="CULTURA E NEWS",Sky Tg24
+https://workers.dev
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Rai Yoyo
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Rai Gulp
+https://workers.dev
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Boing
+https://workers.dev
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Cartoonito
+https://workers.dev
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",K2
+https://workers.dev
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Frisbee
+https://workers.dev
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://githubusercontent.com" group-title="BAMBINI",Super!
+https://workers.dev
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://githubusercontent.com" group-title="SPORT",Rai Sport
+https://workers.dev
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://githubusercontent.com" group-title="SPORT",SuperTennis
+https://workers.devtennis
+
+#EXTINF:-1 tvg-id="RadioItaliaTv.it" tvg-logo="https://githubusercontent.com" group-title="MUSICA",Radio Italia Tv
+https://workers.dev
+#EXTINF:-1 tvg-id="Rtl1025.it" tvg-logo="https://githubusercontent.com" group-title="MUSICA",RTL 102.5 Tv
+https://workers.dev
+#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://githubusercontent.com" group-title="MUSICA",Rai Radio 2 Visual
+https://workers.dev
